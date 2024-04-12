@@ -11,7 +11,6 @@
 │   └── raw         <- The original, immutable data dump. (added in .gitignore)
 │
 ├── docs                    <- Reports and presentations.
-│   ├── methodology.pdf     <- Report regarding the methodologies and decisions. Can be used as a guide when going through the project.
 │   └── presentation.pdf    <- Final presentation for committee purposes.
 |
 ├── notebooks                                       <- Jupyter notebooks.
@@ -26,6 +25,6 @@
 |
 ├── README.md
 |
-├── requirements.txt   <- The requirements file for reproducing the environment.
-|
+└── requirements.txt   <- The requirements file for reproducing the environment.
+
 ```
