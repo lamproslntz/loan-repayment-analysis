@@ -63,7 +63,7 @@ cd loan-repayment-analysis
 ```bash
 python -m venv env
 source env/bin/activate  # Linux
-env/Scripts/activate.bat  # for Windows
+env/Scripts/activate.bat  # Windows
 ```
 
 4.  Install the required dependencies
